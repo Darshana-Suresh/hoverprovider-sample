@@ -1,0 +1,1 @@
+{"version":3,"file":"HoverProvider.js","sourceRoot":"","sources":["../src/HoverProvider.ts"],"names":[],"mappings":";;;AAAA,iCAAiC;AAEjC,MAAa,aAAa;IACzB,YAAY,CAAC,QAA6B,EAAE,QAAyB,EAAE,KAA+B;QACrG,iFAAiF;QACjF,IAAI,IAAI,GAAE,iBAAiB,CAAC,CAAC,mBAAmB;QAChD,OAAO,IAAI,MAAM,CAAC,KAAK,CAAC,IAAI,MAAM,CAAC,cAAc,CAAC,IAAI,CAAC,CAAC,CAAC;IAC1D,CAAC;CAED;AAPD,sCAOC"}
